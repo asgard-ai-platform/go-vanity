@@ -18,7 +18,7 @@ Go Vanity URL 服務，用於為 Asgard AI 平台的 Go 套件提供自定義的
 
 ```
 .
-├── README.md
+├── HOWTO.md
 └── asgard-sdk-go/
     └── index.html      # asgard-sdk-go 套件的 vanity URL 頁面
 ```
